@@ -10,3 +10,8 @@ n is number of samples
 definitely works with pngs, but alpha channels have odd behaviour
 
 can also swap color palettes between two images.
+
+requires:
+  - NumPy
+  - opencv-python(cv2)
+  - matplotlib
